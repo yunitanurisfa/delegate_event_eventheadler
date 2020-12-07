@@ -1,0 +1,11 @@
+D:\SEMESTER 3\PEMROGRAMAN LANJUT\APP Kalkulator Delegate and event\Kalkulator Delegate 'n Event\Kalkulator Delegate 'n Event\bin\Debug\Kalkulator Delegate 'n Event.exe.config
+D:\SEMESTER 3\PEMROGRAMAN LANJUT\APP Kalkulator Delegate and event\Kalkulator Delegate 'n Event\Kalkulator Delegate 'n Event\bin\Debug\Kalkulator Delegate 'n Event.exe
+D:\SEMESTER 3\PEMROGRAMAN LANJUT\APP Kalkulator Delegate and event\Kalkulator Delegate 'n Event\Kalkulator Delegate 'n Event\bin\Debug\Kalkulator Delegate 'n Event.pdb
+D:\SEMESTER 3\PEMROGRAMAN LANJUT\APP Kalkulator Delegate and event\Kalkulator Delegate 'n Event\Kalkulator Delegate 'n Event\obj\Debug\Kalkulator Delegate 'n Event.csprojAssemblyReference.cache
+D:\SEMESTER 3\PEMROGRAMAN LANJUT\APP Kalkulator Delegate and event\Kalkulator Delegate 'n Event\Kalkulator Delegate 'n Event\obj\Debug\Kalkulator_Delegate__n_Event.Form1.resources
+D:\SEMESTER 3\PEMROGRAMAN LANJUT\APP Kalkulator Delegate and event\Kalkulator Delegate 'n Event\Kalkulator Delegate 'n Event\obj\Debug\Kalkulator_Delegate__n_Event.Properties.Resources.resources
+D:\SEMESTER 3\PEMROGRAMAN LANJUT\APP Kalkulator Delegate and event\Kalkulator Delegate 'n Event\Kalkulator Delegate 'n Event\obj\Debug\Kalkulator_Delegate__n_Event.Proses_Kalkulator.resources
+D:\SEMESTER 3\PEMROGRAMAN LANJUT\APP Kalkulator Delegate and event\Kalkulator Delegate 'n Event\Kalkulator Delegate 'n Event\obj\Debug\Kalkulator Delegate 'n Event.csproj.GenerateResource.cache
+D:\SEMESTER 3\PEMROGRAMAN LANJUT\APP Kalkulator Delegate and event\Kalkulator Delegate 'n Event\Kalkulator Delegate 'n Event\obj\Debug\Kalkulator Delegate 'n Event.csproj.CoreCompileInputs.cache
+D:\SEMESTER 3\PEMROGRAMAN LANJUT\APP Kalkulator Delegate and event\Kalkulator Delegate 'n Event\Kalkulator Delegate 'n Event\obj\Debug\Kalkulator Delegate 'n Event.exe
+D:\SEMESTER 3\PEMROGRAMAN LANJUT\APP Kalkulator Delegate and event\Kalkulator Delegate 'n Event\Kalkulator Delegate 'n Event\obj\Debug\Kalkulator Delegate 'n Event.pdb
